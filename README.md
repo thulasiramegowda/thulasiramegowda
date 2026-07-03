@@ -26,9 +26,13 @@ Here are some ideas to get you started:
 ![](https://streak-stats.demolab.com/?user=thulasiramegowda&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=thulasiramegowda&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Snake Game Repo View -->
+<!-- Snake Game showing ACTUAL contributions -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/thulasiramegowda/thulasiramegowda/main/dist/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/thulasiramegowda-hub/thulasiramegowda-hub/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/thulasiramegowda-hub/thulasiramegowda-hub/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/thulasiramegowda-hub/thulasiramegowda-hub/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
  
 ### ✍️ Random Dev Quote
