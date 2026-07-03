@@ -1,4 +1,13 @@
-## Hi there 👋
+Hi there 👋
+
+I'm Thulasi, a Computer Science student passionate about Artificial Intelligence, cloud technologies, and building impactful solutions.
+
+Currently exploring AI Agents, Machine Learning, and Software Development while combining creativity, technology, and entrepreneurship to create meaningful projects.
+
+🎨 Artist at heart
+🤖 AI Enthusiast
+☁️ Cloud Explorer
+🚀 Startup Learner
 
 <!--
 **thulasiramegowda/thulasiramegowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
