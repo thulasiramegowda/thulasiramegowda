@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <!-- Snake Game Repo View -->
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/thulasiramegowda/thulasiramegowda/main/dist/snake.svg" alt="Snake animation" />
 </div>
  
 ### ✍️ Random Dev Quote
