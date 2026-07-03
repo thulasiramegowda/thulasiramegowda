@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 <!-- Snake Game showing ACTUAL contributions -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/thulasiramegowda-hub/thulasiramegowda-hub/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/thulasiramegowda-hub/thulasiramegowda-hub/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/thulasiramegowda-hub/thulasiramegowda-hub/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thulasiramegowda/thulasiramegowda/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thulasiramegowda/thulasiramegowda/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thulasiramegowda/thulasiramegowda/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
