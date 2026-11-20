@@ -189,10 +189,6 @@ Beyond technology, I enjoy drawing, art and creative work. I'm also interested i
 
 <div align="center">
 
-## Let's Connect
-
-I'm always happy to meet people who enjoy learning, building, sharing ideas, and exploring technology together.
-
 
 <hr/>
 
