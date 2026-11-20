@@ -1,245 +1,158 @@
-<div align="center">
+<div align="center"><img src="assets/profile-banner.png" width="100%" alt="Minimal dotted hands and code window banner in charcoal, sage and terracotta" />
+THULASI G T
+Computer Science & Information Technology Student · REVA University
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:DBEAFE,50:93C5FD,100:2563EB&text=THULASI%20G%20T&fontColor=0F172A&fontSize=48&fontAlignY=38&desc=Building%20Ideas%20Into%20Reality&descAlignY=60&descSize=17" width="100%" />
-
-<br/>
-
-<h3>Computer Science & Information Technology Student</h3>
-
-<p>
-  <a href="https://github.com/thulasiramegowda">
-    <img src="https://komarev.com/ghpvc/?username=thulasiramegowda&style=flat-square&color=2563EB&label=PROFILE+VIEWS"/>
-  </a>
-  <a href="https://github.com/thulasiramegowda?tab=followers">
-    <img src="https://img.shields.io/github/followers/thulasiramegowda?style=flat-square&color=2563EB&label=FOLLOWERS"/>
-  </a>
-</p>
-
-<a href="https://www.linkedin.com/in/thulasi-rame-gowda-014374382/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+BUILD  ·  LEARN  ·  EXPLORE  ·  CREATE
+<a href="https://github.com/thulasiramegowda">
+  <img src="https://komarev.com/ghpvc/?username=thulasiramegowda&style=flat-square&color=7C8D7A&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
+<a href="https://github.com/thulasiramegowda?tab=followers">
+  <img src="https://img.shields.io/github/followers/thulasiramegowda?style=flat-square&color=B7785D&label=FOLLOWERS" alt="GitHub followers" />
+</a><a href="https://www.linkedin.com/in/thulasi-rame-gowda-014374382/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-596F83?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:thulasiramegowda29@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-9A6655?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://x.com/thulas_21">
-<img src="https://img.shields.io/badge/X-Follow-334155?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+  <img src="https://img.shields.io/badge/X-Follow-424744?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a></div><table>
+<tr>
+<td width="62%" valign="top">/ About Me
+Hi, I'm Thulasi G T, a Computer Science and Information Technology student at REVA University, Bangalore.
 
-</div>
+I enjoy building practical solutions, experimenting with technologies, and learning how different parts of software work together. My main interests are Artificial Intelligence, Cloud Computing, and Software Development.
 
----
+I'm learning through hands-on projects, hackathon work, technical communities, and improving my programming fundamentals.
 
+Currently exploring
+- AI agents, machine learning, and LLM applications
+- AWS, Google Cloud, and cloud deployment
+- Full-stack development and backend integration
+- Data Structures & Algorithms
+- Open-source collaboration
+Outside technology, I enjoy drawing and creative work. I'm also curious about entrepreneurship and building useful products.
+</td>
+<td width="38%" valign="middle" align="center"><img src="assets/astronaut.png" width="100%" alt="A halftone astronaut looking toward a planet" />
+<sub>Curious by nature. Creative by habit.</sub>
+</td>
+</tr>
+</table>A little about how I think
+const thulasi = {
+  education: "B.Tech CSIT @ REVA University",
+  interests: ["AI", "Cloud", "Software Development"],
+  exploring: ["AI Agents", "Machine Learning", "AWS", "DSA"],
+  mindset: "Learn -> Build -> Improve",
+  creativeSide: "Artist"
+};
+/ Areas I'm Exploring
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">01 · Artificial Intelligence
 
-## About Me
-
-Hi, I'm **Thulasi G T**, a Computer Science and Information Technology student at **REVA University, Bangalore**.
-
-I'm passionate about building technology that solves real-world problems. My interests revolve around Artificial Intelligence, Cloud Computing, and Software Development.
-
-I enjoy learning through hands-on projects, experimenting with new technologies, and collaborating with people who share the same curiosity.
-
-Currently exploring:
-
-- Artificial Intelligence & AI Agents
-- Machine Learning and LLMs
-- AWS and Cloud Computing
-- Full-stack Development
-- Open Source & DSA
-
-Outside technology, I'm an artist who enjoys drawing, creativity, and exploring entrepreneurship.
-
+Exploring AI agents, machine learning, LLMs, and practical AI applications.
 </td>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
+02 · Cloud Computing
 
-## Currently Focused On
-
-**01 / AI & ML**
-
-Exploring intelligent applications, machine learning and AI agents.
-
-**02 / Cloud**
-
-Understanding AWS, infrastructure, deployment and security.
-
-**03 / Development**
-
-Building practical applications and improving programming fundamentals.
-
-**04 / Open Source**
-
-Learning collaborative development and contributing to developer communities.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Creative-Thinker-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Always-Learning-64748B?style=flat-square"/>
-
+Learning AWS, Google Cloud, deployment, infrastructure, and cloud fundamentals.
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
+03 · Software Development
 
----
+Building full-stack applications and improving programming and backend skills.
+</td>
+<td width="50%" valign="top">
+04 · Open Source & DSA
 
-## Selected Projects
-
+Practising problem-solving and learning to collaborate on shared codebases.
+</td>
+</tr>
+</table>/ Selected Projects
+A few projects and experiments from my learning journey. They are at different stages of development; the descriptions below reflect their current scope.
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top">KrishiSetu
+A farmer-support platform exploring market predictions, multilingual assistance, and agricultural labour support.
 
-### KrishiSetu
-
-AI-powered farmer-support platform exploring agricultural market predictions, multilingual assistance and labour support.
-
-**Technologies**
-
-React · Tailwind · Node.js · Express · MongoDB · Gemini API
-
+Stack: React · Tailwind CSS · Node.js · Express · MongoDB · Gemini API · Bhashini
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top">MANGANAI
+A university hackathon MVP exploring satellite data, remote sensing, and AI/ML approaches for manganese prospectivity.
 
-### MANGANAI
+Status: In development
 
-Satellite intelligence project exploring remote sensing and machine learning for manganese prospectivity.
-
-**Technologies / Focus**
-
-Earth Observation · AI/ML · Remote Sensing · Geospatial Analysis
-
+Focus: Earth Observation · Remote Sensing · AI/ML · Geospatial Analysis
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top">AQUA-ETHIC
+An environmental-monitoring concept exploring satellite observations, IoT sensor data, and blockchain-based data integrity.
 
-### AQUA-ETHIC
-
-Environmental monitoring concept combining satellite data, IoT sensors and blockchain-based data integrity.
-
-**Technologies / Focus**
-
-Google Earth Engine · IoT · Blockchain · Geospatial Analysis
-
+Focus: Remote Sensing · IoT · Node.js · PostgreSQL · Blockchain
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top">SafetyVision
+A computer-vision prototype for helmet detection using transfer learning with MobileNetV2.
 
-### SafetyVision
-
-Computer vision prototype exploring real-time helmet detection using transfer learning.
-
-**Technologies**
-
-Python · TensorFlow · MobileNetV2 · Flask · React
-
+Stack: Python · TensorFlow · MobileNetV2 · Flask · React · Node.js
 </td>
 </tr>
-</table>
+<tr>
+<td colspan="2" valign="top">Blockchain Sandbox
+A hands-on learning repository for Ethereum smart contracts and blockchain integration. Includes a Node.js/Express experiment that hashes simulated sensor data and sends the hash to a smart contract.
 
-<div align="center">
+Stack: JavaScript · Node.js · ethers.js · Ethereum · Hardhat · SHA-256
+</td>
+</tr>
+</table>/ Tech Stack
+Technologies I've worked with or am currently exploring. This is a learning snapshot, not a claim of expertise in every tool.
 
-<a href="https://github.com/thulasiramegowda/blockchain-sandbox">
-<img src="https://img.shields.io/badge/Explore%20More-Blockchain%20Sandbox-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+Programming languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js&perline=8" alt="C, C++, Python and JavaScript" />
+<img src="https://img.shields.io/badge/SQL-596F83?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+Frontend development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&perline=8" alt="HTML, CSS, React, Tailwind CSS and Vite" />
+</p>
+Backend & databases
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,sqlite&perline=8" alt="Node.js, Express, MongoDB, PostgreSQL, MySQL and SQLite" />
+</p>
+AI, data & automation
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,pandas&perline=8" alt="TensorFlow, scikit-learn, NumPy and Pandas" />
+<img src="https://img.shields.io/badge/Gemini%20API-7C8D7A?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+<img src="https://img.shields.io/badge/n8n-B7785D?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Power%20BI-8A7D47?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+</p>
+Cloud & developer tools
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,githubactions,vscode,figma,postman&perline=8" alt="AWS, Google Cloud, Docker, Git, GitHub, GitHub Actions, VS Code, Figma and Postman" />
+</p>/ GitHub Analytics
+<div align="center"><a href="https://github.com/thulasiramegowda">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thulasiramegowda&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FBF8F2&title_color=596F5C&icon_color=B7785D&text_color=343A36&rank_icon=github" alt="GitHub statistics" />
 </a>
-
-</div>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js&perline=8" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&perline=8" />
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,sqlite&perline=8" />
-
-### AI, Data & Automation
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&perline=8" />
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
-### Cloud & Developer Tools
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,nginx,git,github,githubactions,vscode,figma&perline=8" />
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
 <a href="https://github.com/thulasiramegowda">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=thulasiramegowda&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ffffff&title_color=2563EB&icon_color=2563EB&text_color=334155&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulasiramegowda&layout=compact&hide_border=true&bg_color=FBF8F2&title_color=596F5C&text_color=343A36" alt="Most used languages" />
 </a>
 
-<a href="https://github.com/thulasiramegowda">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulasiramegowda&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=334155" />
-</a>
 
-</div>
+<img width="85%" src="https://streak-stats.demolab.com?user=thulasiramegowda&hide_border=true&background=FBF8F2&ring=7C8D7A&fire=B7785D&currStreakLabel=596F5C&sideLabels=59645B&dates=777D75" alt="GitHub contribution streak" /></div>Contribution activity
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=thulasiramegowda&bg_color=FBF8F2&color=343A36&line=7C8D7A&point=B7785D&area=true&hide_border=true&custom_title=Thulasi%27s%20Contribution%20Activity" width="100%" alt="Contribution activity graph" /></div>GitHub achievements
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=thulasiramegowda&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub achievement trophies" /></div>/ Contribution Snake
+<div align="center"><img src="https://raw.githubusercontent.com/thulasiramegowda/thulasiramegowda/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" /></div><div align="center">Let's Connect
+I'm always happy to meet people who enjoy learning, building, sharing ideas, and working on meaningful projects.
 
----
+<a href="https://www.linkedin.com/in/thulasi-rame-gowda-014374382/">LinkedIn</a>  · 
+<a href="https://github.com/thulasiramegowda">GitHub</a>  · 
+<a href="https://x.com/thulas_21">X</a>  · 
+<a href="mailto:thulasiramegowda29@gmail.com">Email</a>
 
-## Contribution Activity
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thulasiramegowda&bg_color=ffffff&color=334155&line=2563eb&point=1d4ed8&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="100%" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=thulasiramegowda&theme=default&hide_border=true&background=ffffff&ring=2563eb&fire=f59e0b&currStreakLabel=2563eb&sideLabels=334155" width="85%" />
-
-</div>
-
----
-
-## GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thulasiramegowda&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" />
-
-</div>
-
----
-
-## Let's Connect
-
-<div align="center">
-
-I'm always open to learning, collaborating, sharing ideas and connecting with people who are building interesting things.
-
-<a href="https://github.com/thulasiramegowda">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/thulasi-rame-gowda-014374382/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:thulasiramegowda29@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<br/><br/>
-
-**Learning continuously. Building with curiosity. Creating with purpose.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:DBEAFE&height=110&section=footer" width="100%"/>
-
+Learning continuously. Building with curiosity. Creating with purpose.
 </div>
