@@ -193,22 +193,41 @@ Beyond technology, I enjoy drawing, art and creative work. I'm also interested i
 
 I'm always happy to meet people who enjoy learning, building, sharing ideas, and exploring technology together.
 
+
+<hr/>
+
+<div align="center">
+
+<h2>Let's Connect</h2>
+
+<p>
+  Have an idea, want to collaborate, or just talk about technology?
+  I'd love to connect.
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/thulasi-rame-gowda-014374382/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-829487?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/thulasiramegowda">
+    <img src="https://img.shields.io/badge/GitHub-Follow-343A40?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/thulas_21">
+    <img src="https://img.shields.io/badge/X-Follow-59615B?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:thulasiramegowda29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-B77A62?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 <br/>
 
-<a href="https://www.linkedin.com/in/thulasi-rame-gowda-014374382/">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/thulasiramegowda">GitHub</a>
-&nbsp; · &nbsp;
-<a href="https://x.com/thulas_21">X</a>
-&nbsp; · &nbsp;
-<a href="mailto:thulasiramegowda29@gmail.com">Email</a>
+<h3>Learn. Build. Explore. Repeat.</h3>
+
+<sub>Learning continuously · Building with curiosity · Creating with purpose</sub>
 
 <br/><br/>
 
-**Learning continuously. Building with curiosity. Creating with purpose.**
-
-<br/>
-
-<sub>Made with curiosity and a little creativity.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:829487,100:E8E2D6&height=90&section=footer" width="100%" />
 
 </div>
