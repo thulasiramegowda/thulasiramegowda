@@ -1,57 +1,230 @@
-Hi there 👋
+<!-- ================= HERO SECTION ================= -->
 
-I'm Thulasi, a Computer Science student passionate about Artificial Intelligence, cloud technologies, and building impactful solutions.
-
-Currently exploring AI Agents, Machine Learning, and Software Development while combining creativity, technology, and entrepreneurship to create meaningful projects.
-
-🎨 Artist at heart
-🤖 AI Enthusiast
-☁️ Cloud Explorer
-🚀 Startup Learner
-
-<!--
-**thulasiramegowda/thulasiramegowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thulasigt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thulasi-rame-gowda-014374382) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@thulas_21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thulasiramegowda29@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=thulasiramegowda&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=thulasiramegowda&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=thulasiramegowda&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Snake Game showing ACTUAL contributions -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thulasiramegowda/thulasiramegowda/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thulasiramegowda/thulasiramegowda/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/thulasiramegowda/thulasiramegowda/output/github-contribution-grid-snake.svg" />
-  </picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=190&section=header&text=Hi%20there,%20I'm%20Thulasi%20%F0%9F%91%8B&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Cloud%20Explorer&descAlignY=60&descSize=16" width="100%" />
+
+<br/>
+
+<a href="https://github.com/thulasiramegowda">
+<img src="https://komarev.com/ghpvc/?username=thulasiramegowda&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
+</a>
+<a href="https://github.com/thulasiramegowda?tab=followers">
+<img src="https://img.shields.io/github/followers/thulasiramegowda?style=flat-square&color=2563EB&label=Followers" />
+</a>
+
 </div>
 
- 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thulasiramegowda&limit=5&theme=default&combine_all_yearly_contributions=true)
+## 👩‍💻 About Me
+
+Hi, I'm **Thulasi G T**, a Computer Science and Information Technology student at **REVA University, Bangalore**.
+
+I'm passionate about exploring how technology can solve real-world problems. My interests lie at the intersection of Artificial Intelligence, Cloud Computing, and Software Development.
+
+I enjoy learning by building projects, experimenting with new technologies, collaborating with people, and turning ideas into practical solutions.
+
+- 🤖 Exploring Artificial Intelligence, Machine Learning & AI Agents.
+- ☁️ Learning Cloud Computing and infrastructure with AWS and Google Cloud.
+- 💻 Building applications and experimenting with different technologies.
+- 🌱 Exploring open-source contributions and collaborative development.
+- 🚀 Interested in entrepreneurship and building meaningful products.
+
+**A little more about me:**
+
+🎨 Artist at heart · 🤖 AI Enthusiast · ☁️ Cloud Explorer · 🚀 Aspiring Entrepreneur
 
 ---
-[![](https://komarev.com/ghpvc/?username=thulasiramegowda&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 What I'm Currently Focusing On
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Machine Learning
+
+Exploring machine learning fundamentals, AI agents, LLMs, and practical AI applications.
+
+</td>
+<td width="50%">
+
+### ☁️ Cloud Computing
+
+Learning cloud infrastructure, deployment, networking, scalability, and cloud security.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💻 Software Development
+
+Building full-stack applications, improving programming fundamentals, and practicing DSA.
+
+</td>
+<td width="50%">
+
+### 🌍 Open Source & Community
+
+Exploring open-source contributions, developer communities, collaboration, and networking.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Projects & Experiments
+
+I believe the best way to learn technology is to build with it. Here are some of the projects and experiments I'm working on.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 KrishiSetu
+
+A farmer-support platform exploring market prediction, multilingual assistance, and agricultural labour support.
+
+**Focus:** AI · React · Node.js · MongoDB
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ MANGANAI
+
+A satellite intelligence project exploring AI/ML and remote sensing for manganese prospectivity.
+
+**Focus:** Earth Observation · AI/ML · Geospatial Analysis
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌊 AQUA-ETHIC
+
+An environmental monitoring concept exploring satellite data, IoT sensors, and blockchain-based data integrity.
+
+**Focus:** Remote Sensing · IoT · Blockchain
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ SafetyVision
+
+A computer vision experiment for real-time helmet detection using transfer learning.
+
+**Focus:** Python · TensorFlow · MobileNetV2 · React
+
+</td>
+</tr>
+</table>
+
+I'm continuously experimenting with new ideas and improving these projects as I learn.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+The technologies I have worked with or am currently exploring.
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,js,sql" />
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,sqlite" />
+</p>
+
+### AI, Data & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,nginx,git,github,githubactions,vercel,figma" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/thulasiramegowda">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=thulasiramegowda&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+</a>
+
+<a href="https://github.com/thulasiramegowda">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulasiramegowda&layout=compact&theme=transparent&hide_border=true" />
+</a>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=thulasiramegowda&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thulasiramegowda/thulasiramegowda/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+I'm always interested in connecting with developers, exploring new ideas, learning from different communities, and collaborating on meaningful projects.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/thulasi-rame-gowda-014374382">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/thulasiramegowda">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://x.com/thulas_21">
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="mailto:thulasiramegowda29@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**"Learning continuously. Building fearlessly. Growing together."** 🌱
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" width="100%" />
+
+</div>
