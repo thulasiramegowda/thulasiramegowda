@@ -1,118 +1,269 @@
 <div align="center">
 
-# THULASI G T
+<img src="assets/profile-banner.png" alt="Thulasi G T — Computer Science, AI and Cloud Computing" width="100%" />
 
-**Computer Science & Information Technology Student**
+<br/>
 
-REVA University, Bangalore
+<a href="https://github.com/thulasiramegowda">
+  <img src="https://komarev.com/ghpvc/?username=thulasiramegowda&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
+</a>
+<a href="https://github.com/thulasiramegowda?tab=followers">
+  <img src="https://img.shields.io/github/followers/thulasiramegowda?style=for-the-badge&color=2563EB&label=FOLLOWERS" alt="GitHub followers" />
+</a>
 
-Interested in Artificial Intelligence, Cloud Computing and Software Development.
+<br/>
 
-[GitHub](https://github.com/thulasiramegowda) · [LinkedIn](https://www.linkedin.com/in/thulasi-rame-gowda-014374382/) · [Email](mailto:thulasiramegowda29@gmail.com)
+<a href="https://www.linkedin.com/in/thulasi-rame-gowda-014374382/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/thulas_21">
+  <img src="https://img.shields.io/badge/X-Follow-111827?style=flat-square&logo=x&logoColor=white" />
+</a>
+<a href="mailto:thulasiramegowda29@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/thulasiramegowda">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-24292F?style=flat-square&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="58%" valign="top">
+
 ## About Me
 
-I'm Thulasi, a Computer Science student who enjoys learning through building, experimenting, and exploring new technologies.
+Hi, I'm **Thulasi G T**, a Computer Science and Information Technology student at **REVA University, Bangalore**.
 
-I'm particularly interested in Artificial Intelligence and Cloud Computing, and I enjoy working on projects that combine different areas of technology to solve practical problems.
+I'm interested in how software, AI, and cloud technologies can be used to solve practical problems. I enjoy learning by building projects, trying unfamiliar tools, and working with people who are curious about technology.
 
-Outside technology, I'm an artist who enjoys drawing and creative work.
+- Exploring AI, machine learning, and AI agents
+- Learning cloud infrastructure and deployment
+- Building web applications and improving my programming fundamentals
+- Taking part in developer communities and open-source learning
 
-## Currently Exploring
+Outside tech, I enjoy **drawing and creative work**. I'm also curious about entrepreneurship and how useful ideas become real products.
 
-- Artificial Intelligence, Machine Learning and AI Agents
-- Cloud infrastructure, AWS and Google Cloud
-- Full-stack development and software engineering
-- Data Structures and Algorithms
-- Open-source contributions and developer communities
+</td>
+<td width="42%" valign="top">
+
+### A Quick Introduction
+
+```javascript
+const thulasi = {
+  role: "CSIT Student",
+  interests: [
+    "Artificial Intelligence",
+    "Cloud Computing",
+    "Software Development"
+  ],
+  learning: [
+    "AI Agents",
+    "Machine Learning",
+    "AWS"
+  ],
+  mindset: "Learn by building"
+};
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Creative-Artist%20at%20heart-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Curious-Always%20learning-2563EB?style=flat-square" />
+</p>
+
+</td>
+</tr>
+</table>
+
+## What I'm Exploring
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Artificial Intelligence**
+
+Learning machine learning fundamentals, LLMs, and AI-agent workflows.
+
+</td>
+<td width="50%" valign="top">
+
+**Cloud Computing**
+
+Exploring AWS, Google Cloud, deployment, infrastructure, and security basics.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Software Development**
+
+Building web applications and strengthening problem-solving and DSA skills.
+
+</td>
+<td width="50%" valign="top">
+
+**Open Source & Community**
+
+Learning collaborative development, contributing to projects, and connecting with developers.
+
+</td>
+</tr>
+</table>
+
+---
 
 ## Selected Projects
 
-### KrishiSetu
-A farmer-support platform exploring AI-powered market predictions, multilingual assistance, and agricultural labour support.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Technologies:** React, Node.js, Express, MongoDB, Gemini API
+### KrishiSetu
+
+A farmer-support platform exploring market predictions, multilingual assistance, and agricultural labour support.
+
+**Stack:** React · Tailwind CSS · Node.js · Express · MongoDB · Gemini API
+
+</td>
+<td width="50%" valign="top">
 
 ### MANGANAI
-A university hackathon MVP exploring satellite imagery, remote sensing, and machine learning for manganese prospectivity.
 
-**Focus:** Earth Observation, AI/ML and Geospatial Analysis
+A university hackathon MVP exploring satellite intelligence and machine learning for manganese prospectivity.
+
+**Focus:** Earth Observation · Remote Sensing · AI/ML · Geospatial Analysis
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### AQUA-ETHIC
-An environmental monitoring concept exploring satellite data, IoT sensors, and blockchain-based data integrity.
 
-**Focus:** Remote Sensing, IoT and Blockchain
+An environmental-monitoring concept exploring satellite data, IoT sensors, and blockchain-based data integrity.
+
+**Focus:** Remote Sensing · IoT · Google Earth Engine · Blockchain
+
+</td>
+<td width="50%" valign="top">
 
 ### SafetyVision
-A computer vision project exploring real-time helmet detection using transfer learning.
 
-**Technologies:** Python, TensorFlow, MobileNetV2, React
+A computer-vision prototype exploring real-time helmet detection using transfer learning.
+
+**Stack:** Python · TensorFlow · MobileNetV2 · Flask · React
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### Blockchain Sandbox
-A hands-on learning repository exploring Ethereum smart contracts and blockchain integration with a Node.js backend.
+
+A hands-on repository created while learning Ethereum, smart contracts, and blockchain integration with a Node.js backend.
+
+**Stack:** JavaScript · Node.js · ethers.js · Ethereum · Hardhat
 
 [View Repository](https://github.com/thulasiramegowda/blockchain-sandbox)
+
+</td>
+</tr>
+</table>
+
+> These projects are at different stages of development. The descriptions reflect their current scope and experiments rather than claiming every idea is a completed product.
 
 ---
 
 ## Tech Stack
 
-**Languages**
+**Programming Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js&perline=8" />
+</p>
 
-**Frontend & Backend**
+**Frontend Development**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&perline=8" />
+</p>
 
-**Databases**
+**Backend & Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,sqlite&perline=8" />
+</p>
 
-**Cloud & Development Tools**
+**AI, Data & Automation**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&perline=8" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
 
-## GitHub Activity
+**Cloud & Developer Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,nginx,git,github,githubactions,vscode,figma&perline=8" />
+</p>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thulasiramegowda&show_icons=true&hide_border=true&theme=transparent" />
+<a href="https://github.com/thulasiramegowda">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=thulasiramegowda&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFFFFF&title_color=1D4ED8&icon_color=2563EB&text_color=334155" />
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulasiramegowda&layout=compact&hide_border=true&theme=transparent" />
+<a href="https://github.com/thulasiramegowda">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulasiramegowda&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=1D4ED8&text_color=334155" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=thulasiramegowda&hide_border=true&theme=transparent" />
+<img width="70%" src="https://streak-stats.demolab.com?user=thulasiramegowda&hide_border=true&background=FFFFFF&ring=2563EB&fire=F59E0B&currStreakNum=1E293B&sideNums=1E293B&currStreakLabel=1D4ED8&sideLabels=475569&dates=64748B" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thulasiramegowda&bg_color=FFFFFF&color=334155&line=2563EB&point=0F172A&area=true&hide_border=true" />
+
+</div>
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=thulasiramegowda&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
+
+</div>
+
+## Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thulasiramegowda/thulasiramegowda/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation" />
 
 </div>
 
 ---
 
-## Connect
+<div align="center">
 
-I'm interested in connecting with developers, learning from different communities, and collaborating on meaningful projects.
+## Let's Connect
+
+I'm always happy to connect with developers, learn from different communities, exchange ideas, and collaborate on useful projects.
 
 [LinkedIn](https://www.linkedin.com/in/thulasi-rame-gowda-014374382/) · [GitHub](https://github.com/thulasiramegowda) · [X](https://x.com/thulas_21) · [Email](mailto:thulasiramegowda29@gmail.com)
 
-<div align="center">
-
-*Learning continuously. Building one project at a time.*
+*Learning continuously. Building with curiosity. Creating with purpose.*
 
 </div>
